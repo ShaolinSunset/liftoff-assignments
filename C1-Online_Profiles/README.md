@@ -5,4 +5,4 @@ https://github.com/ShaolinSunset
 https://www.linkedin.com/in/anicia-snell-170953180/
 
 ### Resume
-.PDF attached uploaded separately.
+https://github.com/ShaolinSunset/liftoff-assignments/blob/master/LaunchCodeResume.pdf
